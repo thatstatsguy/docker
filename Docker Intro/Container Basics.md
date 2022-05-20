@@ -16,6 +16,7 @@
 `docker images`
 
 #Intermediate
+
 **Build new image from existing (running) container**
 
 Extract from https://thenewstack.io/tutorial-create-a-docker-image-from-a-running-container/
