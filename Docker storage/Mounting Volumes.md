@@ -1,2 +1,2 @@
 https://docs.docker.com/storage/bind-mounts/
-docker run -it --mount type=bind,source=C:\Users\DynamoAdmin\Desktop\FlightServerCSharp,target=/app mounttest
+docker run -it --mount type=bind,source=C:\Users\<UserName>\Desktop\<CustomFolderName>,target=/app mounttest
