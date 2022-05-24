@@ -1,3 +1,7 @@
+Official Microsoft Source: 
+
+https://docs.microsoft.com/en-us/virtualization/windowscontainers/quick-start/set-up-environment?tabs=Windows-Server
+
 Source 1: https://www.youtube.com/watch?v=Qg022XIzQKY
 At the time writing, docker desktop is not supported on Windows Server - we need to go a different route to getting the docker engine on the machine
 
